@@ -19,6 +19,7 @@ import com.family.service.FamilyService;
 @RequestMapping("/Family")
 public class FamilyController {
 
+	
 	@Autowired
 	private FamilyService familyService;
 	
